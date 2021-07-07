@@ -23,7 +23,5 @@
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=pratyushvatsalshukla&count_private=true&show_icons=true&theme=radical)
  
- ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushvatsalshukla&show_icons=true&theme=radical)
- 
  [![trophy](https://github-profile-trophy.vercel.app/?username=pratyushvatsalshukla&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
