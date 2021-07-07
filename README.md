@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushvatsalshuka&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushvatsalshuka" /> </p>
 
 - Hi, I’m @pratyushvatsalshukla
 - 🔭 I’m interested in Web Development and AWS Development
@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 👀 I’m currently working on Angular
 - 💬 Ask me about JavaScript, C++, Angular
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushvatsalshuka&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushvatsalshuka" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
