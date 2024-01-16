@@ -18,23 +18,9 @@
   
 </p>
 
-* :1st_place_medal: **Skills**
-Development :
-![image](https://github.com/pratyushvatsalshukla/pratyushvatsalshukla/assets/54927584/e27e79f2-0f3c-4c34-835f-9b472fc7a9e2)
-![image](https://github.com/pratyushvatsalshukla/pratyushvatsalshukla/assets/54927584/9847bff9-fa81-4146-ad4f-d98ba95a36eb)
-![image](https://github.com/pratyushvatsalshukla/pratyushvatsalshukla/assets/54927584/6e02b438-3b72-43af-b396-2ce62bd97899)
+* :1st_place_medal: **Tools and Languages**
+  
 
-   
-Designing:
-1. Html / Css
-2. JavaScript
-3. Bootstrap / Reactstrap
-4. ReactJs
-5. VueJS
-
-Databases : 
-1. MySql
-2. MongoDB
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
   
