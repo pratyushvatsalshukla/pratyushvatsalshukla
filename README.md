@@ -20,11 +20,10 @@
 
 * :1st_place_medal: **Skills**
 Development :
-1. JavaScript
-2. Python
-3. Java
-4. Spring MVC
-5. SpringBoot
+![image](https://github.com/pratyushvatsalshukla/pratyushvatsalshukla/assets/54927584/e27e79f2-0f3c-4c34-835f-9b472fc7a9e2)
+![image](https://github.com/pratyushvatsalshukla/pratyushvatsalshukla/assets/54927584/9847bff9-fa81-4146-ad4f-d98ba95a36eb)
+![image](https://github.com/pratyushvatsalshukla/pratyushvatsalshukla/assets/54927584/6e02b438-3b72-43af-b396-2ce62bd97899)
+
    
 Designing:
 1. Html / Css
