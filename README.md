@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyush Vatsal Shukla</h1>
 <h3 align="center">Software Engineer @Cognizant</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushvatsalshukla&show_icons=true&locale=en&layout=compact" alt="pratyushvatsalshukla" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushvatsalshukla&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushvatsalshukla" /> </p>
 
 - 🔭 I’m currently working on **AppSmith**
 
