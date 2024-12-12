@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Vatsal Shukla</h1>
-<h3 align="center">Engineering @GlobalLogic, Ex-Software Engineer @Cognizant, Ex-Full Stack Engineer @Hono.ai</h3>
+<h3 align="center">Senior Software Engineer @Accenture, Ex-Software Engineer @GlobalLogic, Ex-Software Engineer @Cognizant, Ex-Full Stack Engineer @Hono.ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushvatsalshukla&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushvatsalshukla" /> </p>
 
