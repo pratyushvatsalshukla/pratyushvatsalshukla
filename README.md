@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushvatsalshukla&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushvatsalshukla" /> </p>
 
-- 🔭 I’m currently working with Natwest Group**
+- 🔭 I’m currently working with **Natwest Group**
 
 - 💬 Ask me about **ReactJS , SpringBoot**
 
