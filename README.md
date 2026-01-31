@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyushvatsalshukla" alt="pratyushvatsalshukla" /></a> </p>
 
-- 🔭 I’m currently working with **Natwest Group**
+- 🔭 I’m currently working with **Accenture TCI**
 
-- 🌱 I’m currently learning **Redis + Hibernate**
+- 🌱 I’m currently learning **KAFKA with KRAFT**
 
 - 📫 How to reach me **pratyushpro9333@gmail.com**
 
